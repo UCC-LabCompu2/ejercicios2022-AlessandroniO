@@ -1,0 +1,94 @@
+h2
+
+{
+    color: darkorange;
+    font-size: 50px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+img {
+
+    width: 200px;
+
+}
+
+.imagen-de-gatos {
+
+    width: 450px;
+    border-width: 5px;
+    color: #19ac67;
+    border-style: solid;
+
+}
+
+.bordes-redondeados {
+    border-radius: 50%;
+
+}
+
+div {
+
+    background-color: antiquewhite;
+
+
+}
+
+#titulo-app-de-viajes {
+
+    font-size: 40px;
+    color: lightcoral;
+    font-family: "Britannic Bold";
+
+
+}
+
+img [alt]  {
+
+    border-radius: 50px;
+
+}
+
+#contenedor-principal {
+
+
+    color: #f1f1f1;
+    padding: 5px;
+    font-size: 10px;
+    background-color: lightcoral;
+    font-family: "Britannic Bold";
+
+}
+
+.rectangulo {
+
+    padding: 5px;
+    margin: 5px;
+
+
+}
+
+.px {
+
+    background-color: crimson;
+    width: 20px;
+}
+
+.vw {
+
+    background-color: black;
+    width: 20vw;
+
+}
+
+.em {
+    background-color: darkviolet;
+    width: 15em;
+
+
+}
+
+body {
+
+    background-color: #dbeeff;
+
+}
